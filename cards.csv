@@ -1,0 +1,42 @@
+id,name,attack,defense,rarity
+1,Peasant,10,10,50
+2,Mercenary,17,10,30
+3,Monk,15,20,25
+4,Archer,35,25,20
+5,Swordman,30,40,15
+6,Priest,51,65,10
+7,Swordmaster Gauss,71,75,8
+8,Gold Arrow Archis,85,40,7
+9,Paladin Thorne,45,80,6
+10,King Amos,50,50,5
+11,Elf Civilian,15,15,40
+12,Elf Archer,60,15,15
+13,Elf Mage,45,35,10
+14,Elf Guard,45,70,8
+15,Elven Prince Eridan,91,40,5
+16,Orc brute,20,15,35
+17,Orc shaman,55,21,10
+18,Grokk Bonenawer,91,65,5
+19,Orc Butcher,40,31,15
+20,Iron Tusk Bronir,55,75,5
+21,Void bug,5,5,50
+22,Void Tentacles,1,10,40
+23,Abyssal mage,30,50,15
+24,Shadow Hunter,40,21,10
+25,Void Soldier,30,30,20
+26,Riftbearer Bellarahn,71,85,5
+27,World Devourer,100,91,3
+28,Shadowbound,21,40,15
+29,Darkrift behemoth,51,65,5
+30,Eclipse Scavager,15,10,30
+31,Undead,1,17,40
+32,Zombified Soldier,21,25,20
+33,Putrid Paladin,25,45,15
+34,Rotten Hound,38,21,10
+35,Necroman,75,71,5
+36,Rak'khar,95,97,3
+37,Commander,88,71,5
+38,Locust Swarm,20,1,30
+39,Maddened rune,70,20,10
+40,Undead Berserkers,60,55,5
+99,UNLOCK,0,0,0

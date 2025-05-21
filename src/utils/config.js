@@ -1,0 +1,1 @@
+export const APIURL = "http://192.168.124.149:8000/cards"; // API cho main.py (cards)
